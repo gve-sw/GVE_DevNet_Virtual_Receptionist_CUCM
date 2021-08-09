@@ -1,0 +1,20 @@
+[
+  {
+    "invitation_id": "1111",
+    "name": "GUEST-1",
+    "host": "HOST-1",
+    "extension_to_dial": 1111
+  },
+  {
+    "invitation_id": "2222",
+    "name": "GUEST-2",
+    "host": "HOST-2",
+    "extension_to_dial": 2222
+  },
+  {
+    "invitation_id": "3333",
+    "name": "GUEST-3",
+    "host": "HOST-3",
+    "extension_to_dial": 3333
+  }
+]
